@@ -1,6 +1,7 @@
+
+Rashmi first git push hshshsshs
 Rashmi first git push 
 rashmi second git push
+ testrenamerash
 rashmi third git push
-merge error
-
-rashmi new 
+rashmi 3 git push 
