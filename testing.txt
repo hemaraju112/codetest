@@ -1,8 +1,5 @@
 fourth commit hemanth
-chnages 
-<<<<<<< HEAD
+chnages
 rashmi changes
 hemanth 
 praveen 
-=======
->>>>>>> parent of fae4ddf... seventh commit
