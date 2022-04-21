@@ -1,3 +1,6 @@
 Rashmi first git push 
 rashmi second git push
 rashmi third git push
+merge error
+
+rashmi new 
